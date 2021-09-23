@@ -1,0 +1,23 @@
+{
+  "network": {
+    "mainnet": {
+      "chainID": "columbus-4",
+      "fcd": "https://fcd.terra.dev",
+      "lcd": "https://lcd.terra.dev",
+      "name": "mainnet",
+      "ws": ""
+    },
+    "testnet": {
+      "chainID": "bombay-11",
+      "fcd": "https://bombay-fcd.terra.dev",
+      "lcd": "https://bombay-lcd.terra.dev",
+      "name": "testnet",
+      "ws": "wss://bombay-ws.terra.dev"
+    }
+  },
+  "artifact_path": "",
+  "init_msg": {},
+  "init_coins": [],
+  "gas_adjustment": 1.5,
+  "fee_denom": "uusd"
+}
